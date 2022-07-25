@@ -1,0 +1,35 @@
+[
+    {
+        "condition": "entity_properties",
+        "entity": "this",
+        "predicate": {
+            "type": "player",
+            "type_specific": {
+                "type": "player",
+                "gamemode": "survival"
+            },
+            "stepping_on": {
+                "block": {
+                    "tag": "beds"
+                }
+            }
+        }
+    },
+    {
+        "condition": "entity_scores",
+        "entity": "this",
+        "scores": {
+            "multi.sleep": {
+                "min": 1,
+                "value": 937501 
+            }
+        }
+    },
+    {
+        "condition": "time_check",
+        "value": {
+            "min": 12550,
+            "max": 23459
+        }
+    }
+]
