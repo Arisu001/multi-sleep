@@ -6,7 +6,7 @@
             "type": "player",
             "type_specific": {
                 "type": "player",
-                "gamemode": "survival"
+                "gamemode": "unset"
             },
             "stepping_on": {
                 "block": {
