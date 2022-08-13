@@ -3,7 +3,7 @@
 > Ver_: 1.7.1
 > Language: French
 
-> Solo: Accepted ✔
+> Solo: Refused ✖
 > Multi: Accepted ✔
 
 > Version: 1.19+
