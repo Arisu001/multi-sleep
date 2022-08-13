@@ -1,4 +1,4 @@
-#═════════════════[ Entity Effects ]═════════════════#
+#═════════════════[ Multi Sleep ]═════════════════#
 
 > Ver_: 1.7.1
 > Language: French
@@ -10,5 +10,5 @@
 > Created by: Arisu001
 
 
-                    Copyright — Alls right reserved
-#════════════════════════════════════════════════════#
+                Copyright — Alls right reserved
+#═════════════════════════════════════════════════#
