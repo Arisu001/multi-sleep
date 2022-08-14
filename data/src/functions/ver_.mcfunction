@@ -2,7 +2,7 @@ tellraw @a {"text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
 
 tellraw @a [{"text": "═════════[ ", "color": "#19df5", "bold": true}, {"text": "Multi Sleep", "color": "light_purple"}, {"text": " ]═════════"}]
 tellraw @a ""
-tellraw @a [{"text": "Version", "color": "gray"}, {"text": ": ", "color": "yellow"}, {"text": "1.7.1", "color": "aqua"}]
+tellraw @a [{"text": "Version", "color": "gray"}, {"text": ": ", "color": "yellow"}, {"text": "1.8.2", "color": "aqua"}]
 tellraw @a [{"text": "Langue", "color": "gray"}, {"text": ": ", "color": "yellow"}, {"text": "Français", "color": "white"}]
 tellraw @a ""
 tellraw @a [{"text": "Solo", "color": "gray"}, {"text": ": ", "color": "yellow"}, {"text": "Refusé ", "color": "red"}, {"text": "✖", "color": "dark_red"}]
