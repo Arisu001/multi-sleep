@@ -4,7 +4,7 @@
 > Language: French
 
 > Solo: Accepted ✔
-> Multi: Accepted ✖
+> Multi: Refused ✖
 
 > Version: 1.19+
 > Created by: Arisu001
