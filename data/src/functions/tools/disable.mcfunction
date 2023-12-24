@@ -5,4 +5,4 @@ scoreboard objectives remove map.value
 scoreboard objectives remove multi.sleep
 scoreboard objectives remove multi.time
 
-datapack disable "file/Multi Sleep ✔"
+datapack disable "file/multi-sleep"
